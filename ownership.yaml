@@ -1,6 +1,6 @@
----
+havaplan.com---
 version: 1
-ownership:
+ownership:daniel van zyl
   - team: github/docs-engineering
     repo: https://github.com/github/docs-internal
     name: docs-internal
